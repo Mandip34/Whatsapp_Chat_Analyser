@@ -7,7 +7,7 @@
 ### 2) 
 
 ## It was made by following these steps:
-### 1)
+### 1) Collecting data
 ### 2)
 
 
