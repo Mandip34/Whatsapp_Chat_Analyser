@@ -8,7 +8,8 @@
 
 ## It was made by following these steps:
 ### 1) Collecting data
-### 2)
+### 2) Data analysis
+### 3)
 
 
 ## Example (Screenshot from Website):
